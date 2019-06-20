@@ -11,7 +11,7 @@ This open repo will be a crowdsourced list of upcoming developer focused events 
 Event Name | Date | Location | Size/Participants | Price | More Info
 --- | --- | --- | --- | --- | ---
 JavaScript Meetup | TBA | TBD | TBA | Free | -
-WordCamp Dhaka | Sep 28, 2019 | ICCB, Bashundhara, Dhaka | - | - | https://2019.dhaka.wordcamp.org/ 
+WordCamp Dhaka | Sep 28, 2019 | ICCB, Bashundhara, Dhaka | - | - | [website](https://2019.dhaka.wordcamp.org/) 
 
 ### Legend
 
